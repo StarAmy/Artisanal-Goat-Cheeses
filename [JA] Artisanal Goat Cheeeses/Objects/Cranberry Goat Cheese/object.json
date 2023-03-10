@@ -1,0 +1,33 @@
+{
+	"Name": "Cranberry Goat Cheese",
+	"Description": "Creamy goat cheese covered in dried cranberries.",
+	"Category": "Cooking",
+	"Edibility": 55,
+	"Price": 575,
+	"IsColored": false,
+	"Recipe":
+  		{
+     "ResultCount": 1,
+        "Ingredients": [
+        {
+            "Object": "Goat Cheese",
+            "Count": 1,
+        },
+        {
+            "Object": "Cranberries",
+            "Count": 1,
+        },   
+],
+        "IsDefault":false,
+        "CanPurchase": true,
+              "PurchaseFrom": "Gus",
+              "PurchasePrice": 1200,  
+   },
+     "GiftTastes":
+    {
+        "Love": [ "Robin", "Leah" ],
+        "Like": [ "Linus", "Demetrius", "Wizard", "Gus", "Jodi", "Sam", "Maru", "Krobus", "Leo", "Willy", "Emily", "Evelyn", "Alex", "Caroline", "Clint", "Dwarf", "Elliott", "George", "Kent", "Lewis", "Marnie", "Pam", "Penny", "Pierre", "Sandy", "Shane" ],
+        "Dislike": [ "Harvey", "Abigail", "Haley" ],
+        "Hate": [ "Jas", "Vincent", "Sebastian" ],
+    },
+}

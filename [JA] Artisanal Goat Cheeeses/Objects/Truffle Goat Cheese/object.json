@@ -1,0 +1,35 @@
+{
+	"Name": "Truffle Goat Cheese",
+	"Description": "Creamy goat cheese covered in savory truffle pieces.",
+	"Category": "Cooking",
+	"Edibility": 60,
+	"Price": 1125,
+	"IsColored": false,
+	"Recipe":
+  		{
+     "ResultCount": 1,
+        "Ingredients": [
+  
+        {
+            "Object": "Goat Cheese",
+            "Count": 1,
+        },
+        {
+            "Object": "Truffle",
+            "Count": 1,
+        },  
+
+],
+        "IsDefault":false,
+        "CanPurchase": true,
+              "PurchaseFrom": "Gus",
+              "PurchasePrice": 1200,  
+   },
+     "GiftTastes":
+    {
+        "Love": [ "Robin", "Leah" ],
+        "Like": [ "Linus", "Demetrius", "Wizard", "Gus", "Jodi", "Sam", "Krobus", "Leo", "Willy", "Emily", "Evelyn", "Alex", "Caroline", "Clint", "Dwarf", "Elliott", "George", "Kent", "Lewis", "Marnie", "Pam", "Penny", "Pierre", "Sandy", "Shane", "Abigail", "Haley" ],
+        "Dislike": [ "Harvey" ],
+        "Hate": [ "Jas", "Vincent", "Sebastian", "Maru" ],
+    },
+}

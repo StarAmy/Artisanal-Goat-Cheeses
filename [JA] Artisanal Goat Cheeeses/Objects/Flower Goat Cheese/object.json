@@ -1,0 +1,38 @@
+{
+	"Name": "Flower Goat Cheese",
+	"Description": "Creamy goat cheese covered in edible pressed flowers.",
+	"Category": "Cooking",
+	"Edibility": 53,
+	"Price": 700,
+	"IsColored": false,
+	"Recipe":
+  		{
+     "ResultCount": 1,
+        "Ingredients": [
+        {
+            "Object": "Goat Cheese",
+            "Count": 1,
+        },
+        {
+            "Object": "Sweet Pea",
+            "Count": 1,
+        },  
+        {
+            "Object": "Poppy",
+            "Count": 1,
+        },
+    
+],
+        "IsDefault":false,
+        "CanPurchase": true,
+              "PurchaseFrom": "Gus",
+              "PurchasePrice": 1200,  
+   },
+     "GiftTastes":
+    {
+        "Love": [ "Robin", "Leah", "Sandy" ],
+        "Like": [ "Linus", "Demetrius", "Wizard", "Gus", "Jodi", "Sam", "Maru", "Krobus", "Leo", "Willy", "Emily", "Evelyn", "Alex", "Caroline", "Dwarf", "Elliott", "Kent", "Lewis", "Marnie", "Pam", "Penny", "Pierre", "Shane", "Abigail", "Haley" ],
+        "Dislike": [ "Harvey", "Clint", "George" ],
+        "Hate": [ "Jas", "Vincent", "Sebastian" ],
+    },
+}

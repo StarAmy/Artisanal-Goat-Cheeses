@@ -1,0 +1,34 @@
+{
+	"Name": "Hazelnut Goat Cheese",
+	"Description": "Creamy goat cheese covered in crunchy hazlenuts.",
+	"Category": "Cooking",
+	"Edibility": 57,
+	"Price": 590,
+	"IsColored": false,
+	"Recipe":
+  		{
+     "ResultCount": 1,
+        "Ingredients": [ 
+        {
+            "Object": "Goat Cheese",
+            "Count": 1,
+        },
+        {
+            "Object": "Hazelnut",
+            "Count": 1,
+        },  
+       
+],
+        "IsDefault":false,
+        "CanPurchase": true,
+              "PurchaseFrom": "Gus",
+              "PurchasePrice": 1200,  
+   },
+     "GiftTastes":
+    {
+        "Love": [ "Robin", "Leah" ],
+        "Like": [ "Linus", "Demetrius", "Gus", "Maru", "Emily", "Evelyn", "Alex", "Clint", "George", "Kent", "Lewis", "Marnie", "Pam", "Penny", "Sandy", "Abigail" ],
+        "Dislike": [ "Harvey", "Caroline", "Dwarf", "Elliott",  "Haley", "Krobus", "Leo", "Jodi", "Sam", "Pierre", "Willy", "Shane", "Wizard" ],
+        "Hate": [ "Jas", "Vincent", "Sebastian" ],
+    },
+}

@@ -1,0 +1,10 @@
+{
+	"Name": "[JA] Artisanal Goat Cheeses",
+	"Author": "StarAmy",
+	"Version": "1.0.0",
+	"Description": "Adds new goat cheese cooking recipes.",
+	"UniqueID": "StarAmy.GoatCheese",
+	"ContentPackFor": {
+		"UniqueID": "spacechase0.JsonAssets"
+	}
+}

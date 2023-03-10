@@ -1,0 +1,32 @@
+{
+	"Name": "Spring Onion Goat Cheese",
+	"Description": "Creamy goat cheese covered in green onions.",
+	"Category": "Cooking",
+	"Edibility": 53,
+	"Price": 500,
+	"IsColored": false,
+	"Recipe":
+  		{
+     "ResultCount": 1,
+        "Ingredients": [
+        {
+            "Object": "Goat Cheese",
+            "Count": 1,
+        },
+        {
+            "Object": "Spring Onion",
+            "Count": 1,
+        },    
+],
+        "IsDefault":false,
+        "CanPurchase": true,
+              "PurchaseFrom": "Gus",
+              "PurchasePrice": 1200,  
+   },
+     "GiftTastes":
+    {
+        "Love": [ "Leah", "Linus" ],
+        "Dislike": [ "Harvey", "Robin", "Demetrius", "Wizard", "Gus", "Jodi", "Sam", "Maru", "Krobus", "Leo", "Willy", "Emily", "Evelyn", "Alex", "Caroline", "Clint", "Dwarf", "Elliott", "George", "Kent", "Lewis", "Marnie", "Pam", "Penny", "Pierre", "Sandy", "Shane", "Abigail", "Haley" ],
+        "Hate": [ "Jas", "Vincent", "Sebastian" ],
+    },
+}
